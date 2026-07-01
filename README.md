@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Code%20Logic%20Admin%20Panel&fontSize=35&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Full%20Stack%20Developer&fontSize=35&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F5D4&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js;Building+Scalable+Web+Apps;Clean+Code+%26+Performance+Focused" />
-  <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Reza97312&theme=radical&no-frame=true&row=1&column=6" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F5D4&center=true&vCenter=true&width=500&lines=React+%7C+Next.js+%7C+Node.js;Building+Scalable+Web+Apps;Clean+Code+%26+Performance+Focused" />
 </p>
+ <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Reza97312&theme=radical&no-frame=true&row=1&column=6" />
 </p>
 
 <h1 align="center">Hi , I'm Reza </h1>
