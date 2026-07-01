@@ -77,17 +77,6 @@ React Vite Redux React Query Chart.js
 
 ---
 
-###  GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Reza97312&theme=radical&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Reza97312&show_icons=true&theme=radical&count_private=true&hide_border=true" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reza97312&layout=compact&theme=radical" height="165" />
-</p>
-
 ###  Let’s Connect
 
 I’m always open to discussing new opportunities, collaborations, or interesting technical challenges.
