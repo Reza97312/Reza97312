@@ -5,9 +5,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F5D4&center=true&vCenter=true&width=500&lines=React+%7C+Next.js+%7C+Node.js;Building+Scalable+Web+Apps;Clean+Code+%26+Performance+Focused" />
 </p>
- <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Reza97312&theme=radical&no-frame=true&row=1&column=6" />
-</p>
 
 <h1 align="center">Hi , I'm Reza </h1>
 <h3 align="center">Full-Stack Developer | 4+ Years of Experience | Building Scalable Web Platforms</h3>
