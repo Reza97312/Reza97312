@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Full%20Stack%20Developer&fontSize=35&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://github.com/Reza97312/Reza97312/blob/main/banner.png?raw=true⁠" alt="Banner" width="100%" />
 </p>
 
 <p align="center">
